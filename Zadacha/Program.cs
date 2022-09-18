@@ -13,3 +13,22 @@
 ["Russia","Denmark","Kazan"]->[]
 */
 
+Console.Clear();
+
+string[] array = new string[4] { "hello", "2202", "world", ":-)" };
+
+Console.WriteLine($"Исходный массив: ");
+Console.Write($" x = [");
+PrintArray(array);
+Console.WriteLine($"]");
+
+
+
+void PrintArray(string[] arrayy)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write(" '{1}'  ", i, arrayy[i]);
+    }
+}
+
