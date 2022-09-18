@@ -22,7 +22,10 @@ Console.Write($" x = [");
 PrintArray(array);
 Console.WriteLine($"]");
 
-
+Console.WriteLine("Массив строк,длина которых меньше либо равна 3 символа: ");
+Console.Write($" y = [");
+PrintArray2(array);
+Console.Write($"]");
 
 void PrintArray(string[] arrayy)
 {
@@ -32,3 +35,13 @@ void PrintArray(string[] arrayy)
     }
 }
 
+void PrintArray2(string[] arrayy)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i].Length <= 3)
+        {
+            Console.Write(" '{1}'  ", i, arrayy[i]);
+        }
+    }
+}
