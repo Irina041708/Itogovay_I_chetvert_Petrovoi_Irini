@@ -1,0 +1,15 @@
+E:\GeekBrains\6-Итоги блока.Выбор специализации\repo\Examples-Itog\0_ITOGOVAY_Petrovoi_I_A\Zadacha\bin\Debug\net6.0\Zadacha.exe
+E:\GeekBrains\6-Итоги блока.Выбор специализации\repo\Examples-Itog\0_ITOGOVAY_Petrovoi_I_A\Zadacha\bin\Debug\net6.0\Zadacha.deps.json
+E:\GeekBrains\6-Итоги блока.Выбор специализации\repo\Examples-Itog\0_ITOGOVAY_Petrovoi_I_A\Zadacha\bin\Debug\net6.0\Zadacha.runtimeconfig.json
+E:\GeekBrains\6-Итоги блока.Выбор специализации\repo\Examples-Itog\0_ITOGOVAY_Petrovoi_I_A\Zadacha\bin\Debug\net6.0\Zadacha.dll
+E:\GeekBrains\6-Итоги блока.Выбор специализации\repo\Examples-Itog\0_ITOGOVAY_Petrovoi_I_A\Zadacha\bin\Debug\net6.0\Zadacha.pdb
+E:\GeekBrains\6-Итоги блока.Выбор специализации\repo\Examples-Itog\0_ITOGOVAY_Petrovoi_I_A\Zadacha\obj\Debug\net6.0\Zadacha.csproj.AssemblyReference.cache
+E:\GeekBrains\6-Итоги блока.Выбор специализации\repo\Examples-Itog\0_ITOGOVAY_Petrovoi_I_A\Zadacha\obj\Debug\net6.0\Zadacha.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\6-Итоги блока.Выбор специализации\repo\Examples-Itog\0_ITOGOVAY_Petrovoi_I_A\Zadacha\obj\Debug\net6.0\Zadacha.AssemblyInfoInputs.cache
+E:\GeekBrains\6-Итоги блока.Выбор специализации\repo\Examples-Itog\0_ITOGOVAY_Petrovoi_I_A\Zadacha\obj\Debug\net6.0\Zadacha.AssemblyInfo.cs
+E:\GeekBrains\6-Итоги блока.Выбор специализации\repo\Examples-Itog\0_ITOGOVAY_Petrovoi_I_A\Zadacha\obj\Debug\net6.0\Zadacha.csproj.CoreCompileInputs.cache
+E:\GeekBrains\6-Итоги блока.Выбор специализации\repo\Examples-Itog\0_ITOGOVAY_Petrovoi_I_A\Zadacha\obj\Debug\net6.0\Zadacha.dll
+E:\GeekBrains\6-Итоги блока.Выбор специализации\repo\Examples-Itog\0_ITOGOVAY_Petrovoi_I_A\Zadacha\obj\Debug\net6.0\refint\Zadacha.dll
+E:\GeekBrains\6-Итоги блока.Выбор специализации\repo\Examples-Itog\0_ITOGOVAY_Petrovoi_I_A\Zadacha\obj\Debug\net6.0\Zadacha.pdb
+E:\GeekBrains\6-Итоги блока.Выбор специализации\repo\Examples-Itog\0_ITOGOVAY_Petrovoi_I_A\Zadacha\obj\Debug\net6.0\Zadacha.genruntimeconfig.cache
+E:\GeekBrains\6-Итоги блока.Выбор специализации\repo\Examples-Itog\0_ITOGOVAY_Petrovoi_I_A\Zadacha\obj\Debug\net6.0\ref\Zadacha.dll
