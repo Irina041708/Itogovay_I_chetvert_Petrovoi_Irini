@@ -3,7 +3,7 @@
 ## 1. Создание пустого репозитория в GitHub под названием **Itogovay_I_chetvert_Petrovoi_Irini**.
   
 ## 2. Отрисовка блок-схемы алгоритма основной содержательной части:
-![block-shema](block-shema.png)  
+![block-shema](Block-shema.jpeg)  
 
 ## 3. Создание в репозитории оформленного текстового описания решения в файле **Reshenie.md**
 
